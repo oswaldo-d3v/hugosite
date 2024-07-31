@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Drafts</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My Drafts</description>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>es-sv</language>
+    <lastBuildDate>Wed, 31 Jul 2024 08:50:23 -0600</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como Crear Reglas Udev</title>
+      <link>https://example.org/post/como-crear-reglas-udev/</link>
+      <pubDate>Wed, 31 Jul 2024 08:50:23 -0600</pubDate>
+      <guid>https://example.org/post/como-crear-reglas-udev/</guid>
+      <description> ¿Que es Udev? ¿Como crear una reglar Udev? Ejemplo ¿Que es Udev? Es el sistema de gestión de dispositivos para el núcleo de Linux a partir de la version 2.6 es responsable de la detección, administración y configuración de dispositivos de hardware en el sistema
+¿Como crear una regla Udev? Ejemplo </description>
+    </item>
+  </channel>
+</rss>
